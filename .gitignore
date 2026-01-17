@@ -1,0 +1,35 @@
+# Visual Studio
+.vs/
+[Bb]in/
+[Oo]bj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Mono Auto Generated Files
+mono_crash.*
+
+# Build Results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+
+# Packages
+*.nupkg
+# NuGet Packages
+**/packages/*
+!**/packages/build/
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# OS generated files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
